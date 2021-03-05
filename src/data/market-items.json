@@ -463,6 +463,70 @@
       "id": 10300000303,
       "name": "Arbitrator"
   },
+    {
+      "id": 10200000102,
+      "name": "Cormorant Interdictor"
+  },  
+  {
+      "id": 10200000103,
+      "name": "Cormorant II Interdictor"
+  },  
+  {
+      "id": 10200000202,
+      "name": "Thrasher Interdictor"
+  },  
+  {
+      "id": 10200000203,
+      "name": "Thrasher II Interdictor"
+  },  
+  {
+      "id": 10200000302,
+      "name": "Coercer Interdictor"
+  },  
+  {
+      "id": 10200000303,
+      "name": "Coercer II Interdictor"
+  },  
+  {
+      "id": 10200000402,
+      "name": "Catalyst Interdictor"
+  },  
+  {
+      "id": 10200000403,
+      "name": "Catalyst II Interdictor"
+  },  
+  {
+      "id": 10300000206,
+      "name": "Rupture Interdictor"
+  },  
+  {
+      "id": 10300000207,
+      "name": "Bellicose Interdictor"
+  },  
+  {
+      "id": 10300000306,
+      "name": "Maller Interdictor"
+  },  
+  {
+      "id": 10300000307,
+      "name": "Arbitrator Interdictor"
+  },  
+  {
+      "id": 10300000406,
+      "name": "Thorax Interdictor"
+  },  
+  {
+      "id": 10300000407,
+      "name": "Celestis Interdictor"
+  },  
+  {
+      "id": 10300000106,
+      "name": "Moa Interdictor"
+  },  
+  {
+      "id": 10300000107,
+      "name": "Blackbird Interdictor"
+  },
   {
       "id": 10300000305,
       "name": "Augoror"
