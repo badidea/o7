@@ -6488,6 +6488,70 @@
       "name": "Venture III Blueprint"
   },
   {
+      "id": "60300000306",
+      "name": "Maller Interdictor Blueprint"
+  },
+  {
+	  "id": "60300000407",
+      "name": "Celestis Interdictor Blueprint"
+  },
+  {
+	  "id": "60300000206",
+      "name": "Rupture Interdictor Blueprint"
+  },
+  {
+	  "id": "60300000307",
+      "name": "Arbitrator Interdictor Blueprint"
+  },
+  {
+	  "id": "60300000106",
+      "name": "Moa Interdictor Blueprint"
+  },
+  {
+	  "id": "60300000207",
+      "name": "Bellicose Interdictor Blueprint"
+  },
+  {
+	  "id": "60300000107",
+      "name": "Blackbird Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000402",
+      "name": "Catalyst Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000302",
+      "name": "Coercer Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000403",
+      "name": "Catalyst II Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000202",
+      "name": "Thrasher Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000303",
+      "name": "Coercer II Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000102",
+      "name": "Cormorant Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000203",
+      "name": "Thrasher II Interdictor Blueprint"
+  },
+  {
+	  "id": "60200000103",
+      "name": "Cormorant II Interdictor Blueprint"
+  },
+  {
+	  "id": 60300000406,
+      "name": "Thorax Interdictor Blueprint"
+  },	
+  {
       "id": 61108000006,
       "name": "MK5 Cloaking Device Blueprint"
   },
