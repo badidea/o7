@@ -84,6 +84,14 @@
       "name": "Slasher II"
   },
   {
+      "id": 10100000209,
+      "name": "Slasher Interceptor"
+  }, 
+  {
+      "id": 10100000210,
+      "name": "Slasher II Interceptor"
+  },
+  {
       "id": 10100000212,
       "name": "Breacher Assault"
   },
@@ -128,6 +136,14 @@
       "name": "Executioner II"
   },
   {
+      "id": 10100000309,
+      "name": "Executioner I Interceptor"
+  },
+  {
+      "id": 10100000310,
+      "name": "Executioner II Interceptor"
+  },
+  {
       "id": 10100000312,
       "name": "Punisher Assault"
   },
@@ -170,6 +186,10 @@
   {
       "id": 10100000408,
       "name": "Atron II"
+  },
+  {
+	  "id": 10100000409,
+	  "name": "Atron Interceptor"
   },
   {
       "id": 10100000410,
