@@ -1984,6 +1984,30 @@
       "name": "Pith C-Type Large Torpedo Launcher"
   },
   {
+      "id": 11026000006,
+      "name": "MK5 Interdiction Sphere Launcher"
+  },
+  {
+      "id": 11026000008,
+      "name": "MK7 Interdiction Sphere Launcher"
+  },
+  {
+      "id": 11026000010,
+      "name": "MK9 Interdiction Sphere Launcher"
+  },
+  {
+      "id": 11116000006,
+      "name": "MK5 Warp Disruption Field Generator"
+  },
+  {
+      "id": 11116000008,
+      "name": "MK7 Warp Disruption Field Generator"
+  },
+  {
+      "id": 11116000010,
+      "name": "MK9 Warp Disruption Field Generator"
+  },
+  {
       "id": 11031000004,
       "name": "MK3 Small Energy Nosferatu"
   },
@@ -6578,7 +6602,31 @@
   {
 	  "id": 60300000406,
       "name": "Thorax Interdictor Blueprint"
-  },	
+  },
+  {
+	  "id": 61026000006,
+      "name": "MK5 Interdiction Sphere Launcher Blueprint"
+  },
+  {
+	  "id": 61026000008,
+      "name": "MK7 Interdiction Sphere Launcher Blueprint"
+  },
+  {
+	  "id": 61026000010,
+      "name": "MK9 Interdiction Sphere Launcher Blueprint"
+  },
+  {
+	  "id": 61116000006,
+      "name": "MK5 Warp Disruption Field Generator Blueprint"
+  },
+  {
+	  "id": 61116000008,
+      "name": "MK7 Warp Disruption Field Generator Blueprint"
+  },
+  {
+	  "id": 61116000010,
+      "name": "MK9 Warp Disruption Field Generator Blueprint"
+  },
   {
       "id": 61108000006,
       "name": "MK5 Cloaking Device Blueprint"
